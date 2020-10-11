@@ -24,3 +24,5 @@ How to read the deltas excel:
 - I populate rows 18-26 manually by running the python script for before the game scenario. I then remove the next game from pending matches list and then manually increment points for each team to calculate the probability in either case.
 - The deltas show the jump/drop in probability for either scenario. This is useful if you are watching a game where your team is not playing and you aren't sure whom to support. Choose the team which increases your team's net possibilities
 - Impact of a game is calculated by the absolute sum of deltas for Top 2 and Top 4 scenarios. Higher the number, higher the impact of the game's result on the team's probabilities
+
+[![Run on Repl.it](https://repl.it/badge/github/amerind386/IPL)](https://repl.it/github/amerind386/IPL)
